@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amine02da/amine02da.github.io.git/static/css/main.19ae4891.css",
+    "main.js": "/amine02da/amine02da.github.io.git/static/js/main.a9c1ad27.js",
+    "static/media/i3.webp": "/amine02da/amine02da.github.io.git/static/media/i3.fb5c0a6ce8f33418c59d.webp",
+    "static/media/i1.webp": "/amine02da/amine02da.github.io.git/static/media/i1.04f4599c1371545e940a.webp",
+    "static/media/i2.webp": "/amine02da/amine02da.github.io.git/static/media/i2.883c3d23f476eea79499.webp",
+    "static/media/i4.webp": "/amine02da/amine02da.github.io.git/static/media/i4.c58d37d518e9d758ae93.webp",
+    "static/media/i5.webp": "/amine02da/amine02da.github.io.git/static/media/i5.7e800bde40d75aab3240.webp",
+    "static/media/.i6.webp": "/amine02da/amine02da.github.io.git/static/media/.i6.8f38b09731a61e3f9eb8.webp",
+    "static/media/me.jpg": "/amine02da/amine02da.github.io.git/static/media/me.1734ede9c26133deed51.jpg",
+    "static/media/mee.png": "/amine02da/amine02da.github.io.git/static/media/mee.ae0637e278483b165d61.png",
+    "index.html": "/amine02da/amine02da.github.io.git/index.html",
+    "static/media/cv.txt": "/amine02da/amine02da.github.io.git/static/media/cv.a69dbac8451c430a1c25.txt",
+    "main.19ae4891.css.map": "/amine02da/amine02da.github.io.git/static/css/main.19ae4891.css.map",
+    "main.a9c1ad27.js.map": "/amine02da/amine02da.github.io.git/static/js/main.a9c1ad27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19ae4891.css",
+    "static/js/main.a9c1ad27.js"
+  ]
+}
